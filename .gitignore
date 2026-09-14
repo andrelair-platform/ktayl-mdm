@@ -1,0 +1,16 @@
+_bmad/
+_bmad-output/
+.claude/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+target/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
